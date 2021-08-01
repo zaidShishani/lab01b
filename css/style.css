@@ -1,0 +1,20 @@
+body{
+    background-color: lightgray;
+    margin: 0px;
+  }
+h1{
+    background-color: seagreen;
+}
+  p{
+      color: royalblue;
+  }
+  
+  li{
+    color:rebeccapurple;
+  }
+  footer {
+    background-color: white;
+  }
+  footer p{
+    color: red;
+  }
